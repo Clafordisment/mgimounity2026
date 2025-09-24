@@ -1,0 +1,4 @@
+repository "MGIMO2026/MGIMO2026@10170532210869@cloud"
+  path "/"
+    br "/main"
+    co "/main"
